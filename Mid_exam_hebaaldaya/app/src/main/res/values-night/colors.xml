@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ألوان الوضع الليلي (Night) -->
+    <color name="primary">#CE93D8</color>
+    <color name="primary_dark">#121212</color>
+    <color name="on_primary">#000000</color>
+    <color name="accent">#F48FB1</color>
+
+    <color name="bg_screen">#121212</color>
+    <color name="text_main">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="tab_unselected">#4A148C</color>
+
+    <color name="tab1_bg">#0D2538</color>
+    <color name="tab1_text">#90CAF9</color>
+    <color name="tab2_bg">#13291A</color>
+    <color name="tab2_text">#A5D6A7</color>
+    <color name="tab3_bg">#33200D</color>
+    <color name="tab3_text">#FFCC80</color>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">مرحبابك</string>
+
+    <!-- MainActivity -->
+    <string name="login_title">تسجيل الدخول</string>
+    <string name="login_subtitle">أدخل البريد الإلكتروني وكلمة المرور</string>
+    <string name="hint_email">البريد الإلكتروني</string>
+    <string name="hint_password">كلمة المرور</string>
+    <string name="btn_login">دخول</string>
+    <string name="error_email">أدخل بريدًا إلكترونيًا صحيحًا</string>
+    <string name="error_password">كلمة المرور يجب أن تكون 6 أحرف على الأقل</string>
+
+    <string name="press_back_again">Press back again to exit</string>
+
+    <!-- ModeActivity -->
+    <string name="mode_title">الأوضاع</string>
+    <string name="btn_set_mode">Set Mode</string>
+
+    <string name="tab_first">First</string>
+    <string name="tab_second">Second</string>
+    <string name="tab_third">Third</string>
+    <string name="content_first">التاب الأول</string>
+    <string name="content_second">التاب الثاني</string>
+    <string name="content_third">التاب الثالث</string>
+
+    <!-- Popup menu -->
+    <string name="mode_light">Light – فاتح</string>
+    <string name="mode_night">Night – ليلي</string>
+    <string name="mode_system">System – حسب النظام</string>
+</resources>

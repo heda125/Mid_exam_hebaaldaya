@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ألوان الوضع الفاتح -->
+    <color name="primary">#6A1B9A</color>
+    <color name="primary_dark">#4A148C</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="accent">#EC407A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="bg_screen">#F3E5F5</color>
+    <color name="text_main">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="tab_unselected">#D1C4E9</color>
+
+    <color name="tab1_bg">#E3F2FD</color>
+    <color name="tab1_text">#1565C0</color>
+    <color name="tab2_bg">#E8F5E9</color>
+    <color name="tab2_text">#2E7D32</color>
+    <color name="tab3_bg">#FFF3E0</color>
+    <color name="tab3_text">#E65100</color>
+</resources>
